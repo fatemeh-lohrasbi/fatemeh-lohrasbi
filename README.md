@@ -16,8 +16,13 @@
 - I’m available for freelancing.
   If you need a passionate team member please get in touch. 
 
-- How to reach me **lohrasbi.developer@gmail.com**
-
+- you can reach me by 
+<a href="https://www.linkedin.com/in/lohrasbi-developer/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="mailto:lohrasbi.developer@gmail.com" target="blank"><img align="center"
+         src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
+         alt="azzar" height="30"/></a>
 
 <br/><br/>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> <b>technologies and tools</b>
