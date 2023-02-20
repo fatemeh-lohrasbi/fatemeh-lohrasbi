@@ -9,11 +9,14 @@
 
 <br>
 
-- 🔭 I’m currently working on javascript and react
+- I'm a frontend developer With 3+ years of experience.
 
-- 🤝 I’m available for freelancing.
+- I’m currently working on javascript and react
 
-- 📫 How to reach me **lohrasbi.developer@gmail.com**
+- I’m available for freelancing.
+  If you need a passionate team member please get in touch. 
+
+- How to reach me **lohrasbi.developer@gmail.com**
 
 
 <br/><br/>
