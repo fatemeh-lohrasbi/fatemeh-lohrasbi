@@ -1,6 +1,6 @@
 
-<h1>I'm Fatemeh Lohrasbi</h1>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=A1263C&width=435&lines=fronted+developer;working+with+js+and+react;An+Enthusiastic%2C+motivated;and+self-taught+programmer;I%E2%80%99m+available+for+freelancing" alt="Typing SVG" /></a>
+<h1 align = "center">I'm Fatemeh Lohrasbi</h1>
+<p align ="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&center=true&color=A1263C&width=435&lines=fronted+developer;working+with+js+and+react;An+Enthusiastic%2C+motivated;and+self-taught+programmer;I%E2%80%99m+available+for+freelancing" alt="Typing SVG" /></p>
 <br/><br/>
 
 
